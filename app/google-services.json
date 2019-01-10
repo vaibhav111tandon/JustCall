@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "407632364970",
+    "firebase_url": "https://justcall-79513.firebaseio.com",
+    "project_id": "justcall-79513",
+    "storage_bucket": "justcall-79513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407632364970:android:81b5f1f2d561687c",
+        "android_client_info": {
+          "package_name": "com.example.vaibhav.justcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407632364970-hlg9f5ckm6r34p7h3mqhj8a6qml4cgk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vaibhav.justcall",
+            "certificate_hash": "458ada1d6d3637562fe7c7befc136d4944cfdc85"
+          }
+        },
+        {
+          "client_id": "407632364970-521e0s5gfqa2lho0riejqdqjh8sod01p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxsHfP-isJlQ2--5RubUGwi87oMu4JiRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407632364970-521e0s5gfqa2lho0riejqdqjh8sod01p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
