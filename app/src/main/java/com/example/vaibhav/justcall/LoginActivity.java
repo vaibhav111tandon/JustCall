@@ -53,6 +53,9 @@ public class LoginActivity extends AppCompatActivity {
                 final String EMAIL = mEmail.getText().toString();
                 final String PASSWORD = mPassword.getText().toString();
                 mAuth.signInWithEmailAndPassword(EMAIL,PASSWORD).addOnSuccessListener(LoginActivity.this, new OnSuccessListener<AuthResult>() {
+
+                    //on successful login with the email and password
+
                     @Override
                     public void onSuccess(AuthResult authResult) {
                         Intent intent = new Intent(LoginActivity.this,MainActivity.class);
